@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans+Caption:wght@400;700&family=PT+Serif:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+html {
+  margin: 0;
+  padding: 0;
+  font-family: 'PT Serif', serif;
+  font-size: 20px;
+  color: #ffffff;
+  background: url(https://lh3.googleusercontent.com/pw/AL9nZEVCAUQrKaHtUjBNwqUfQmp695ONxPoIsiO501Qyr70JwiUGDz_4tloO7zXCPmba7Zf8rRt7rF5q5owUMXE-BRdUWmg5XHBexE52fk7BqXjXYuCcu2VSfMIOtbibwfIsX-TfRfv-5PwiHxeXOmN8Ye1vDw=w3360-h1354-no?authuser=0) no-repeat center center fixed;
+  background-size: cover;
+}
+.main {
+  margin: 0;
+  padding: 32px;
+}
+h1 {
+  font-size: 2rem;
+  font-family: 'PT Sans Caption', sans-serif;
+  font-weight: 700;
+  margin-bottom: 0;
+}
+p.subhead {
+  margin: 0;
+  font-style: italic;
+}
